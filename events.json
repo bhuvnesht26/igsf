@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "name" : "Sunday Chess Tournament",
+      "date" : "May 28, 2017",
+      "venue" : "Delhi",
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+      "url" : ""
+    },
+    {
+      "name" : "Summer Camp 2017",
+      "date" : "June 1, 2017",
+      "venue" : "Delhi",
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+      "url" : ""
+    }
+    
+  ]
+}
