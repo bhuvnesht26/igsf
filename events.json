@@ -2,18 +2,22 @@
   "events": [
     {
       "name" : "Sunday Chess Tournament",
-      "date" : "May 28, 2017",
-      "venue" : "Delhi",
+      "date" : "June 11, 2017",
+      "venue" : "Najafgarh",
       "photo" : "https://bhuvnesht26.github.io/igsf/img/sct.jpg",
       "url" : "https://www.eventbrite.com/e/igsf-summer-camp-2017-tickets-8971876123"
     },
     {
       "name" : "Summer Camp 2017",
-      "date" : "June 1, 2017",
-      "venue" : "Delhi",
+      "date" : "June 1, 2017- June 31, 2017",
+      "Fees" : " Rs.2000",
+      "venue" : "West Sagarpur",
+      "Time" : "morning 7:30-9:00 am",
+      "Contact No.": "9891598908",
       "photo" : "https://bhuvnesht26.github.io/igsf/img/sc2017.jpg",
       "url" : "https://www.eventbrite.com/e/sunday-chess-tournament-tickets-34626271109"
     }
+    
     
   ]
 }
